@@ -6,7 +6,7 @@ Open Supermarket is an open source database which aims to contain all prices, nu
 
 ## Why develop such a database?
 
-There are some companies and apps that keep their own database with product data, but these are often not complete or completely inaccessible for third parties. Open Supermarket has a very specific goal: index all product data of the major Dutch supermarkets. If it achieves this goal, everyone will benefit: consumers can easily search for product data, developers can build apps with the API and existing databases can be expanded with Dutch productdata.
+There are some companies and apps that keep their own database with product data, but these are often not complete or it's completely inaccessible for third parties. Open Supermarket has a very specific goal: index all product data of the major Dutch supermarkets. If it achieves this goal, everyone will benefit: consumers can easily search for product data, developers can build apps with the API and existing databases can be expanded greatly.
 
 ## Which supermarkets will be indexed? 
 
@@ -19,4 +19,4 @@ After these are finished, we can start working on other supermarkets like Coop, 
 
 ## How to contribute
 
-Right now contributing is not necesary, since Open Supermarket is still in its starting phase. Once the fundamentals are in place, contribution instructions will be detailed.
+Right now contributing is not necessary, since Open Supermarket is still in its starting phase. Instructions regarding contributions will be detailed once the fundamentals are in place.
